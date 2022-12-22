@@ -1,0 +1,15 @@
+/home/jd/Área de Trabalho/Stopwatch/bin/Debug/net7.0/Stopwatch
+/home/jd/Área de Trabalho/Stopwatch/bin/Debug/net7.0/Stopwatch.deps.json
+/home/jd/Área de Trabalho/Stopwatch/bin/Debug/net7.0/Stopwatch.runtimeconfig.json
+/home/jd/Área de Trabalho/Stopwatch/bin/Debug/net7.0/Stopwatch.dll
+/home/jd/Área de Trabalho/Stopwatch/bin/Debug/net7.0/Stopwatch.pdb
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.AssemblyReference.cache
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfoInputs.cache
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfo.cs
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.dll
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/refint/Stopwatch.dll
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.pdb
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/Stopwatch.genruntimeconfig.cache
+/home/jd/Área de Trabalho/Stopwatch/obj/Debug/net7.0/ref/Stopwatch.dll

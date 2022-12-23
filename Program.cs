@@ -17,6 +17,8 @@ class Program
         Console.WriteLine("Quanto tempo deseja contar?");
 
         string data = Console.ReadLine().ToLower();
+        char type = char.Parse(data.Substring(data.Length-1, 1));
+        Console.WriteLine(type);
     }
 
     static void Start(int time)
